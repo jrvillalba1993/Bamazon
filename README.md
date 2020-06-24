@@ -1,5 +1,6 @@
 # Bamazon
 Julian Villalba
+Week 12 mySQL and NODE HW assignment
 
 So in this assignment we needed to create a system using Node and MySQL that tracked a stores inventory and allowed people to make purchases.
 

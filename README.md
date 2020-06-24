@@ -26,7 +26,8 @@ I'd then select the item number and the quantity and it subtracts it from the my
 <img src ="https://i.imgur.com/1pPRNdl.png" alt="" />
 As you can see it works without any issue whatsoever.
 
-After what took a LONG time of trial and error, I worked on the BamazonManager js file. The whole goal was to be able to add and edit the inventory used by the BamazonCustomer.js file.<img src="https://i.imgur.com/0jbeJ57.png" alt="" />
+After what took a LONG time of trial and error, I worked on the BamazonManager js file. The whole goal was to be able to add and edit the inventory used by the BamazonCustomer.js file.
+<img src="https://i.imgur.com/0jbeJ57.png" alt="" />
 
 
 As you can see everything is working as it should!

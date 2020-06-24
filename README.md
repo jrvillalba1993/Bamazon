@@ -28,3 +28,6 @@ After what took a LONG time of trial and error, I worked on the BamazonManager j
 
 As you can see everything is working as it should!
 
+
+Youtube video showing everything works:
+<iframe width="1349" height="480" src="https://www.youtube.com/embed/fGUNz2ct_bA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

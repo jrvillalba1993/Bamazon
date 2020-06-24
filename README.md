@@ -30,4 +30,4 @@ As you can see everything is working as it should!
 
 
 Youtube video showing everything works:
-<iframe width="1349" height="480" src="https://www.youtube.com/embed/fGUNz2ct_bA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=fGUNz2ct_bA

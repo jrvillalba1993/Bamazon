@@ -14,7 +14,8 @@ and then USE bamazon2;
 <img src="https://i.imgur.com/Vmdqcrs.png" alt ="" />
 
 
-As you can see here using mySQL I created a DB called "bamazon2" and filled it with the data contained in the table. The columns I had include : product, department, price, and quantity. I created 2 tables one named "Products" and the other named "Departments"
+As you can see here using mySQL I created a DB called "bamazon2" and filled it with the data contained in the table.
+The columns I had include : product, department, price, and quantity. I created 2 tables one named "Products" and the other named "Departments"
 
 I had trouble with the creation of the database only to realize that wasn't the issue at all. I was having mySQL errors in terminal and after some googling fixed it by running this in SQL "ER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'" and fixed it entirely.
 

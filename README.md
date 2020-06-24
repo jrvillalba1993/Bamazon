@@ -32,6 +32,8 @@ As you can see it works without any issue whatsoever.
 After what took a LONG time of trial and error, I worked on the BamazonManager js file. The whole goal was to be able to add and edit the inventory used by the BamazonCustomer.js file.
 <img src="https://i.imgur.com/0jbeJ57.png" alt="" />
 
+I was going to go all the way and create the BamazonExecutive.js and didn't due to complications and time restrictions.
+
 
 As you can see everything is working as it should!
 

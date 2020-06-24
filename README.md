@@ -10,7 +10,9 @@ This was done by running in mySQL workbench the following:
 CREATE DATABASE bamazon2
 and then USE bamazon2;
 (as seen below)
+
 <img src="https://i.imgur.com/Vmdqcrs.png" alt ="" />
+
 
 As you can see here using mySQL I created a DB called "bamazon2" and filled it with the data contained in the table. The columns I had include : product, department, price, and quantity. I created 2 tables one named "Products" and the other named "Departments"
 
